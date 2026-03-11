@@ -1,4 +1,4 @@
-# AWS Compute Resilience Labs
+# AWS Compute Resilience Architecture
 
 ## Overview
 This repository consolidates multiple AWS compute labs demonstrating
